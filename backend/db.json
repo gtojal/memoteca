@@ -1,0 +1,46 @@
+{
+  "pensamentos": [
+    {
+      "id": "1",
+      "conteudo": "Consegui",
+      "autoria": "Dev Alura",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "2",
+      "conteudo": "Estudando Angular (Editado)",
+      "autoria": "Dev Gabriel",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "3",
+      "conteudo": "Angular é o melhor'",
+      "autoria": "Dev Alura",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Teste Gabriel",
+      "autoria": "Dev Gabriel",
+      "modelo": "modelo2",
+      "id": "6"
+    },
+    {
+      "conteudo": "Meu pensamento",
+      "autoria": "Dev Gabriel",
+      "modelo": "modelo1",
+      "id": "ZGIQYro"
+    },
+    {
+      "id": "FDtIhBM",
+      "conteudo": "Criando Pensamento novo",
+      "autoria": "Dev Gabriel",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "fGzU2tu",
+      "conteudo": "Novíssimo Pensamento",
+      "autoria": "Dev Gabriel",
+      "modelo": "modelo3"
+    }
+  ]
+}
